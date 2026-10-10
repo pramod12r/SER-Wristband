@@ -97,4 +97,4 @@ The datasets keep their own licences and are not redistributed here.
 
 ## Citation and contact
 
-[Dr. Pramod Reddy Ayiluri, Associate Professor, Department of CSE, VJIT, Hyderabad,INDIA] If you use this code, please cite the repository [10.5281/zenodo.23275870].
+[Dr. Pramod Reddy Ayiluri, Associate Professor, Department of CSE, VJIT, Hyderabad,INDIA] If you use this code, please cite the repository [https://doi.org/10.5281/zenodo.23275870].
